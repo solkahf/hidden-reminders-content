@@ -1,0 +1,77 @@
+{
+ "version": 1,
+ "letters": [
+  {
+   "id": "L001",
+   "text": "I keep counting the years I wasted. Everyone my age seems to be somewhere, and I am still at the start. Is it too late for someone like me?",
+   "bestThemes": [
+    "Hope"
+   ],
+   "goodThemes": [
+    "Growth",
+    "Patience"
+   ],
+   "arrivesAfter": 5
+  },
+  {
+   "id": "L002",
+   "text": "My father and I have not spoken in two years. I tell myself I don't care. Then his birthday comes and I sit with the phone in my hand.",
+   "bestThemes": [
+    "Mercy"
+   ],
+   "goodThemes": [
+    "Love",
+    "Kindness"
+   ],
+   "arrivesAfter": 10
+  },
+  {
+   "id": "L003",
+   "text": "I have everything I said I wanted. A good job, a nice flat. So why does it all feel so empty when the lights go off?",
+   "bestThemes": [
+    "Soul"
+   ],
+   "goodThemes": [
+    "Gratitude",
+    "Reflection"
+   ],
+   "arrivesAfter": 15
+  },
+  {
+   "id": "L004",
+   "text": "People at work think I am confident. Inside I am terrified they will find out I don't really know what I am doing.",
+   "bestThemes": [
+    "Ego"
+   ],
+   "goodThemes": [
+    "Reflection",
+    "Hope"
+   ],
+   "arrivesAfter": 20
+  },
+  {
+   "id": "L005",
+   "text": "I lost someone this winter. People tell me it gets easier. It doesn't feel like it will. How do you carry something this heavy?",
+   "bestThemes": [
+    "Patience"
+   ],
+   "goodThemes": [
+    "Hereafter",
+    "Hope"
+   ],
+   "arrivesAfter": 25
+  },
+  {
+   "id": "L006",
+   "text": "I always notice what others do wrong. Lately I wonder if I am the one people are tired of.",
+   "bestThemes": [
+    "Reflection"
+   ],
+   "goodThemes": [
+    "Kindness",
+    "Ego"
+   ],
+   "arrivesAfter": 30
+  }
+ ]
+}
