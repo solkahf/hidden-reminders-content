@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "categories": [
   {
    "id": "memento",
@@ -43,7 +43,7 @@
    "category": "memento",
    "theme": "Reflection",
    "secondaryTheme": "Kindness",
-   "text": "Be harsh on yourself, and easy on others. Okay?",
+   "text": "Be harsh on yourself, and easy on others.",
    "author": "Imam ash-Shafi`i",
    "reference": "",
    "canReply": true,
