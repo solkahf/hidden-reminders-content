@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "categories": [
   {
    "id": "memento",
@@ -43,11 +43,11 @@
    "category": "memento",
    "theme": "Reflection",
    "secondaryTheme": "Kindness",
-   "text": "Be harsh on yourself, and easy on others.",
+   "text": "Be harsh on yourself, and easy on others. Isa said",
    "author": "Imam ash-Shafi`i",
    "reference": "",
    "canReply": true,
-   "redact": 0
+   "redact": 10
   },
   {
    "id": "Q0002",
